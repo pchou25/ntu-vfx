@@ -1,1 +1,1 @@
-# NTU Digital visuals effect 2022 - HDR
+# project 1 - HDR
