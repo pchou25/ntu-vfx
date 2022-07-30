@@ -16,4 +16,4 @@ example:
 python3 main.py -s 4 -p data/ -o output -f 1200
 `
 
-![result.jpg](docs/result.jpg)
+![result.jpg](reports/docs/result.jpg)
