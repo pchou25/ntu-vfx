@@ -8,13 +8,13 @@ Formula:
 
 x’ and y’ are the shift to the center of the image.
 
-![Untitled](docs/Untitled.png)
+![Untitled](./docs/Untitled.png)
 
 Example:
 
 focal length is calculated with auto stitch.
 
-![test.jpg](docs/test.jpg)
+![test.jpg](./docs/test.jpg)
 
 # 2. MSOP
 
